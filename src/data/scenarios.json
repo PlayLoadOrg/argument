@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Common Sense - On Government",
+    "author": {
+      "name": "Thomas Paine",
+      "brief": "Recent immigrant from England, worked as writer and pamphleteer, not from wealthy class",
+      "bias": "Radical republican, hostile to monarchy"
+    },
+    "context": {
+      "date": "January 1776",
+      "situation": "Half the colonists still loyal to Crown, many fence-sitters uncertain about independence",
+      "stakes": "Trying to shift public opinion toward breaking from Britain entirely",
+      "audience": "Common people and merchants, not just educated elite"
+    },
+    "statement": "Society in every state is a blessing, but Government, even in its best state, is but a necessary evil; in its worst state an intolerable one: for when we suffer, or are exposed to the same miseries BY A GOVERNMENT, which we might expect in a country WITHOUT GOVERNMENT, our calamity is heightened by reflecting that we furnish the means by which we suffer. Government, like dress, is the badge of lost innocence; the palaces of kings are built upon the ruins of the bowers of paradise.",
+    "logicalStructure": [
+      "Premise 1: Society (voluntary cooperation) creates benefit",
+      "Premise 2: Government is necessary to restrain vice",
+      "Premise 3: Government requires surrendering some freedom",
+      "Conclusion: Government is a necessary evil - needed but not inherently good",
+      "Supporting argument: If government causes same misery as anarchy, it has failed its purpose"
+    ],
+    "correctDecision": "sound",
+    "narratorFeedback": {
+      "correct": "Right. Paine's making a definitional argument here - distinguishing between 'society' (voluntary cooperation) and 'government' (necessary constraint). You might disagree with his premises - maybe you think government IS inherently good - but the logic is internally consistent. He's not committing a fallacy, he's making a philosophical claim about the nature of political authority.",
+      "incorrect": "This one's actually sound. Paine is making a definitional distinction: society = voluntary association, government = necessary constraint on human vice. The structure holds: IF government creates the same problems as anarchy, THEN it has failed its purpose. That's valid reasoning. You might find his metaphor about 'lost innocence' overblown, and you might disagree with calling government 'evil,' but that's a dispute about premises, not logic."
+    }
+  },
+  {
+    "id": 2,
+    "title": "Liberty or Death",
+    "author": {
+      "name": "Patrick Henry",
+      "brief": "Virginia lawyer and orator, known for passionate speeches",
+      "bias": "Fiery revolutionary, skeptical of British reconciliation"
+    },
+    "context": {
+      "date": "March 23, 1775",
+      "situation": "Second Virginia Convention debating whether to arm militia",
+      "stakes": "Choosing between preparing for war or continuing diplomatic efforts",
+      "audience": "Virginia delegates, many still hoping for peaceful resolution"
+    },
+    "statement": "Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me liberty or give me death!",
+    "logicalStructure": [
+      "Implied premise: British rule equals chains and slavery",
+      "Implied premise: Life without liberty is not worth living",
+      "Emotional appeal: Invokes God and personal conviction",
+      "Conclusion: We must choose armed resistance"
+    ],
+    "correctDecision": "fallacy",
+    "correctFallacies": ["appeal_emotion", "false_dilemma"],
+    "narratorFeedback": {
+      "correct": "Good eye. This is one of the most famous speeches in American history - and it's built on fallacies. Henry presents a false dilemma: either total liberty or literal death, with no middle ground. He's also making a pure appeal to emotion - 'Almighty God,' chains, slavery, death. It's powerful rhetoric that moved people to action, but the logic doesn't hold. There were other options besides armed rebellion or submission. Sometimes the most memorable arguments are the most fallacious.",
+      "incorrect": "This one's actually fallacious despite being brilliant rhetoric. Henry commits a false dilemma - presenting only two options (liberty or death) when other paths existed. He's also making a direct appeal to emotion rather than logical argument. The speech worked because it was passionate and moving, not because the reasoning was sound. That's the key lesson: effective persuasion and valid logic aren't always the same thing."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Natural Rights",
+    "author": {
+      "name": "Samuel Adams",
+      "brief": "Boston organizer, cousin of John Adams, master propagandist",
+      "bias": "Radical revolutionary, believed in natural rights philosophy"
+    },
+    "context": {
+      "date": "November 20, 1772",
+      "situation": "Writing 'The Rights of the Colonists' for Boston town meeting",
+      "stakes": "Establishing philosophical foundation for colonial resistance",
+      "audience": "Massachusetts colonists and other colonies"
+    },
+    "statement": "Among the natural rights of the Colonists are these: First, a right to life; Secondly, to liberty; Thirdly, to property; together with the right to support and defend them in the best manner they can. These are evident branches of, rather than deductions from, the duty of self-preservation, commonly called the first law of nature.",
+    "logicalStructure": [
+      "Premise: Natural rights exist independent of government",
+      "Premise: Self-preservation is a natural law",
+      "Claim: Life, liberty, property are natural rights",
+      "Conclusion: These rights include the right to defend them",
+      "Reasoning: Rights flow from natural law, not from government grant"
+    ],
+    "correctDecision": "sound",
+    "narratorFeedback": {
+      "correct": "Right. Adams is making a natural rights argument - that certain rights exist prior to government and can't be legitimately taken away. You might disagree with natural rights philosophy entirely, but that's a philosophical dispute, not a logical error. His reasoning is: IF rights flow from nature/self-preservation, THEN they can't be legitimately revoked by government. That's internally consistent. The radical part isn't the logic - it's the premise that rights come from nature rather than from kings.",
+      "incorrect": "This one's actually sound. Adams is arguing from natural rights theory - the idea that certain rights exist independent of government. The logic flows: self-preservation is natural → life, liberty, property are necessary for self-preservation → therefore these are natural rights → therefore they include the right to defend them. You might reject natural rights philosophy entirely, but rejecting the premises isn't the same as finding a logical flaw. His reasoning from premises to conclusion is valid."
+    }
+  }
+]

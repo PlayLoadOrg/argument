@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "name": "Formal Fallacies",
+      "description": "Errors in the logical structure of an argument",
+      "fallacies": [
+        {
+          "id": "non_sequitur",
+          "label": "Non Sequitur",
+          "definition": "The conclusion doesn't logically follow from the premises",
+          "example": "The Founders wore wigs, therefore their arguments about liberty are invalid."
+        },
+        {
+          "id": "false_dilemma",
+          "label": "False Dilemma",
+          "definition": "Presenting only two options when more exist",
+          "example": "Either we submit entirely to Parliament or face total chaos - there is no middle ground."
+        },
+        {
+          "id": "affirming_consequent",
+          "label": "Affirming the Consequent",
+          "definition": "If A then B; B is true, therefore A must be true",
+          "example": "If Britain oppresses us, we'll resist. We're resisting, therefore Britain oppresses us."
+        }
+      ]
+    },
+    {
+      "name": "Informal Fallacies",
+      "description": "Arguments that are logically unsound for lack of well-grounded premises",
+      "fallacies": [
+        {
+          "id": "ad_hominem",
+          "label": "Ad Hominem",
+          "definition": "Attacking the person making the argument rather than the argument itself",
+          "example": "Hamilton is a bastard from the Caribbean, so his financial plan must be wrong."
+        },
+        {
+          "id": "appeal_authority",
+          "label": "Appeal to Authority",
+          "definition": "Citing authority instead of providing actual reasoning",
+          "example": "King George says we must obey Parliament, and he is our divinely appointed monarch, so we must obey."
+        },
+        {
+          "id": "appeal_emotion",
+          "label": "Appeal to Emotion",
+          "definition": "Manipulating emotions (fear, pity, anger) rather than using logical reasoning",
+          "example": "Think of the children who will suffer if we break from Britain! How can you be so heartless?"
+        },
+        {
+          "id": "straw_man",
+          "label": "Straw Man",
+          "definition": "Misrepresenting an opponent's position to make it easier to attack",
+          "example": "The loyalists want us to be slaves forever, worshipping the King as a god."
+        },
+        {
+          "id": "slippery_slope",
+          "label": "Slippery Slope",
+          "definition": "Claiming A will inevitably lead to Z without evidence for the causal chain",
+          "example": "If we allow any taxation, soon they'll take everything we own and enslave us all."
+        },
+        {
+          "id": "false_analogy",
+          "label": "False Analogy",
+          "definition": "Comparing two things that aren't actually comparable",
+          "example": "Just as a child must obey their father, so must the colonies obey the mother country."
+        },
+        {
+          "id": "begging_question",
+          "label": "Begging the Question",
+          "definition": "Using the conclusion as a premise (circular reasoning)",
+          "example": "We must resist tyranny because tyrants must be resisted."
+        }
+      ]
+    },
+    {
+      "name": "Relevance Fallacies",
+      "description": "Arguments that introduce irrelevant information",
+      "fallacies": [
+        {
+          "id": "red_herring",
+          "label": "Red Herring",
+          "definition": "Introducing an irrelevant topic to distract from the original argument",
+          "example": "Yes, Parliament taxed us unfairly, but what about the threat from French Canada?"
+        },
+        {
+          "id": "tu_quoque",
+          "label": "Tu Quoque (You Too)",
+          "definition": "Accusing the opponent of hypocrisy instead of addressing their argument",
+          "example": "Jefferson says all men are created equal, but he owns slaves, so his argument is worthless."
+        },
+        {
+          "id": "appeal_tradition",
+          "label": "Appeal to Tradition",
+          "definition": "Something is right because it's always been done this way",
+          "example": "We've been subjects of the British Crown for 150 years - we should continue to be."
+        },
+        {
+          "id": "bandwagon",
+          "label": "Bandwagon",
+          "definition": "Something is true because many people believe it",
+          "example": "Most colonists still support the King, so remaining loyal must be the right choice."
+        }
+      ]
+    }
+  ]
+}
